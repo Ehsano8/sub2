@@ -1,1 +1,3 @@
-vless://05c4e9fc-0937-46cf-a75a-78cefd122064@hamrahaval.alidehghan.ml:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=Amirfallah.100jjad.tk&fp=randomized&type=ws&sni=Amirfallah.100jjad.tk#Amirfallah-Hamrahaval-1Month
+vless://dcbc47f7-b0c0-432a-cb95-405f44d21108@hamrahaval.alidehghan.ml:443?path=%2Fdcbc47f7-b0c0-432a-cb95-405f44d21108&security=tls&encryption=none&host=shahinshahan.s56123.gq&type=ws&sni=shahinshahan.s56123.gq#Finland_reverse-HAMRAHAVAL
+
+vless://dcbc47f7-b0c0-432a-cb95-405f44d21108@irancell.alidehghan.ml:443?path=%2Fdcbc47f7-b0c0-432a-cb95-405f44d21108&security=tls&encryption=none&host=shahinshahan.s56123.gq&type=ws&sni=shahinshahan.s56123.gq#Finland_reverse-IRANCELL
