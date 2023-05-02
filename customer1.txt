@@ -1,2 +1,2 @@
-vless://dcbc47f7-b0c0-432a-cb95-405f44d21108@hamrahaval.alidehghan.ml:443?path=%2Fdcbc47f7-b0c0-432a-cb95-405f44d21108&security=tls&encryption=none&host=ehsantg.s56123.gq&type=ws&sni=shahin.s56123.gq#Finland+reverse+HAMRAHAVAL
-vless://dcbc47f7-b0c0-432a-cb95-405f44d21108@irancell.alidehghan.ml:443?path=%2Fdcbc47f7-b0c0-432a-cb95-405f44d21108&security=tls&encryption=none&host=ehsantg.s56123.gq&type=ws&sni=shahan.s56123.gq#Finland+reverse+IRANCELL
+vless://dcbc47f7-b0c0-432a-cb95-405f44d21108@hamrahaval.alidehghan.ml:443?path=%2Fdcbc47f7-b0c0-432a-cb95-405f44d21108&security=tls&encryption=none&host=ehsantg.s56123.gq&type=ws&sni=shahin.s56123.gq#Finland+reverse+HAMRAHAVAL1
+vless://dcbc47f7-b0c0-432a-cb95-405f44d21108@irancell.alidehghan.ml:443?path=%2Fdcbc47f7-b0c0-432a-cb95-405f44d21108&security=tls&encryption=none&host=ehsantg.s56123.gq&type=ws&sni=shahan.s56123.gq#Finland+reverse+IRANCELL1
